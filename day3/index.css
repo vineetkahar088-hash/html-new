@@ -1,0 +1,25 @@
+/* what is css */
+
+/* css gives style to row HTML  */
+/* css stands for cascading style sheets  */
+/* css is used to give style to our web pages  */
+/* css is used to make websites responsive */
+/* HTML is used to structure a website  */
+/* css takes responsibility of design  */
+
+/* role of css  */
+/* cascading style sheets which is known as css is a style sheet language that used to handle the presentation of the web page containing HTML  */
+/* it makes our websites beautiful and modern looking */
+
+/* selector property value  */
+/*    p     {color:   blue;} */
+
+/* three ways to add css to the markup  */
+/* inline css: css is added to the elements directly using style attribute  */
+/* internal css: css is kept inside the head tags in <style> tags  */
+/* external css: css is kept separately inside a css style sheet  */
+
+p{
+    color: red;
+    background: goldenrod;
+}
